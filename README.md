@@ -86,6 +86,7 @@ git push
 
 13. return to master branch and delete the temporary branch
 
+do random stuff
 ```bash
 git checkout master
 git pull
